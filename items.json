@@ -1,0 +1,46 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "The Godfather",
+      "description": "The Godfather is an epic crime film directed by Francis Ford Coppola. The story follows the Corleone family, a powerful Italian mafia family in New York. Don Vito Corleone, portrayed by Marlon Brando, is the patriarch of the family and a respected leader in the world of organized crime. The film narrates the family's struggle to maintain their power and face internal and external threats. With iconic performances and a captivating narrative, The Godfather is a cinematic masterpiece and an undisputed classic.",
+      "picture": "https://i.ibb.co/vYfF2rS/el-padrino-final.webp",
+      "isWatched": false
+    },
+    {
+      "id": 2,
+      "title": "Titanic",
+      "description": "Titanic, directed by James Cameron, is a romance and drama film set during the tragic sinking of the RMS Titanic. The story follows Jack Dawson, a penniless artist, and Rose DeWitt Bukater, a young high-society woman, who fall in love aboard the luxurious ocean liner. As the Titanic sinks, their love is tested amidst the chaos and desperation. The film combines a thrilling plot with stunning visual effects and an emotional soundtrack, making it one of the most successful films of all time.",
+      "picture": "https://i.ibb.co/MCy6Sxt/titanic-final.webp",
+      "isWatched": false
+    },
+    {
+      "id": 3,
+      "title": "The Lord of the Rings: The Return of the King",
+      "description": "The Lord of the Rings: The Return of the King, directed by Peter Jackson, is the final installment of the trilogy based on J.R.R. Tolkien's masterpiece. The film follows Frodo and Sam's journey to destroy the One Ring on Mount Doom while the forces of evil gather for an epic battle in Minas Tirith. The movie features an epic fantasy world filled with memorable characters and a mythology-rich narrative. Winner of multiple Academy Awards, this film is a milestone in cinematic history.",
+      "picture": "https://i.ibb.co/k8ZR2tX/sen-or-de-los-anillos-final.webp",
+      "isWatched": false
+    },
+    {
+      "id": 4,
+      "title": "Star Wars: The Empire Strikes Back",
+      "description": "Star Wars: The Empire Strikes Back, directed by Irvin Kershner, is the sequel to George Lucas's iconic science fiction film. The story continues the Rebel forces' struggle against the evil Galactic Empire. Luke Skywalker seeks Jedi training with Yoda, while Han Solo and Princess Leia face dangers on different fronts. The film is known for its dark tone and unforgettable showdown on the planet Hoth. The Empire Strikes Back has become one of the beloved films in the Star Wars saga.",
+      "picture": "https://i.ibb.co/ZcNMTR0/star-wars-final.webp",
+      "isWatched": false
+    },
+    {
+      "id": 5,
+      "title": "Jurassic Park",
+      "description": "Jurassic Park, directed by Steven Spielberg, is a science fiction film that combines adventure excitement with the wonder of dinosaurs. A theme park featuring genetically recreated dinosaurs descends into chaos as the dinosaurs escape their enclosures and threaten the visitors. The film is a visual feast of groundbreaking special effects that realistically bring dinosaurs to life. Jurassic Park is an exhilarating adventure that has left an indelible mark on pop culture.",
+      "picture": "https://i.ibb.co/Pj10hZr/jurassic-park-final.webp",
+      "isWatched": false
+    },
+    {
+      "id": 6,
+      "title": "Forrest Gump",
+      "description": "Forrest Gump, directed by Robert Zemeckis, is a film that follows the life of Forrest Gump, portrayed by Tom Hanks. Forrest is a man with a low IQ but a heart of gold. Throughout the film, Forrest becomes a witness and participant in key events in U.S. history, from the 1950s to the 1980s. The film is a moving exploration of kindness and fortune in a constantly changing world and has left a lasting mark on cinematic culture.",
+      "picture": "https://i.ibb.co/4J40QQY/forrest-gump-final.webp",
+      "isWatched": false
+    }
+  ]
+}
